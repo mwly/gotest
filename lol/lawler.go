@@ -1,5 +1,5 @@
 package lol
 
-func lawl() string {
+func Lawl() string {
 	return "laaaaawl"
 }

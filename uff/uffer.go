@@ -1,5 +1,5 @@
 package uff
 
-func uffer() string {
+func Uffer() string {
 	return "OUUGHHFFF!"
 }
